@@ -50,5 +50,5 @@ SliderMenu＋CollectionView 联动设置
             
 效果图
 
-        ![image](https://github.com/AllenOoo/SliderMenu-CollectionView/blob/master/效果图/Simulator%20Screen%20Shot%202016年8月27日%20下午12.20.29.png)
+![image](https://github.com/AllenOoo/SliderMenu-CollectionView/blob/master/效果图/Simulator%20Screen%20Shot%202016年8月27日%20下午12.20.29.png)
 
