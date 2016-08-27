@@ -47,4 +47,8 @@ SliderMenu＋CollectionView 联动设置
                 // 手指离开屏幕后设定滑动菜单对应Item最终状态
                 sliderMenu.sliderMenuWillScrollToIndex(targetIndex)
             }
+            
+效果图
+
+        ![image](https://github.com/AllenOoo/SliderMenu-CollectionView/blob/master/效果图/Simulator%20Screen%20Shot%202016年8月27日%20下午12.20.29.png)
 
