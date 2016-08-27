@@ -11,8 +11,9 @@ import UIKit
 
 
 protocol SliderMenuInfoViewDelegate {
-
+    /// 手指还未离开屏幕时的移动
     func collectionView(collectionView: SliderMenuInfoView, panning pan: UIPanGestureRecognizer)
+    /// 手指离开屏幕时，targetIndex : 将要停止的到目标Cell的 Index
     func collectionView(collectionView: SliderMenuInfoView, didEndPan pan: UIPanGestureRecognizer, to targetIndex: NSInteger)
 }
 

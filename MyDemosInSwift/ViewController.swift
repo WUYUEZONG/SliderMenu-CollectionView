@@ -42,17 +42,19 @@ class ViewController: UIViewController, SliderMenuInfoViewDelegate, SliderMenuVi
 
     }
 
-    //MARK: - Delegate
-
+    //MARK: - SliderMenuViewDelegate
     func didSelectedAtIndex(index: NSInteger, animated: Bool) {
+        // 点击时使下方collectionView滚动
         collection.scrollToItemAtIndexPath(NSIndexPath.init(forRow: index, inSection: 0), atScrollPosition: .CenteredHorizontally, animated: animated)
     }
-
+    //MARK: - SliderMenuInfoViewDelegate
     func collectionView(collectionView: SliderMenuInfoView, panning pan: UIPanGestureRecognizer) {
+        // 手指移动时改变滑动菜单对应Item缩放系数
         sliderMenu.itemScaledByDistance(Double(pan.translationInView(collectionView).x))
     }
 
     func collectionView(collectionView: SliderMenuInfoView, didEndPan pan: UIPanGestureRecognizer, to targetIndex: NSInteger) {
+        // 手指离开屏幕后设定滑动菜单对应Item最终状态
         sliderMenu.sliderMenuWillScrollToIndex(targetIndex)
     }
 
