@@ -2,7 +2,7 @@
 
 > ##### 滑动菜单和CollectionView的组合
 
-[SliderMenu 的简单使用](#### SliderMenu 的简单使用)
+[SliderMenu 的简单使用](#SliderMenu 的简单使用)
 
 #### SliderMenu 的简单使用
 
