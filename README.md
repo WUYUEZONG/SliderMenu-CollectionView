@@ -2,6 +2,8 @@
 
 > ##### 滑动菜单和CollectionView的组合
 
+[TOC]
+
 #### SliderMenu 的简单使用
 
 ```swift
