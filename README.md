@@ -1,8 +1,8 @@
 ## SliderMenu-CollectionView
 
-> ##### 滑动菜单和CollectionView的组合
+> 滑动菜单和CollectionView的组合
 
-[TOC]
+<!-- TOC -->autoauto- [SliderMenu-CollectionView](#slidermenu-collectionview)auto        - [SliderMenu 的简单使用](#slidermenu-的简单使用)auto        - [CollectionView 滑动时的代理](#collectionview-滑动时的代理)auto        - [SliderMenu＋CollectionView 联动设置](#slidermenu＋collectionview-联动设置)auto        - [效果图](#效果图)autoauto<!-- /TOC -->
 
 #### SliderMenu 的简单使用
 
