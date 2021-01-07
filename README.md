@@ -1,11 +1,13 @@
 ## SliderMenu-CollectionView
 > ##### 滑动菜单和CollectionView的组合
 
-#### 目录
-[<small>SliderMenu 的简单使用</small>](#slidermenu-的简单使用)<br/>
-[<small>CollectionView 滑动时的代理</small>](#collectionview-滑动时的代理)<br/>
-[<small>SliderMenu＋CollectionView 联动设置</small>](#slidermenucollectionview-联动设置)<br/>
-[<small>效果图</small>](#效果图)
+- [SliderMenu-CollectionView](#slidermenu-collectionview)
+    - [SliderMenu 的简单使用](#slidermenu-的简单使用)
+    - [CollectionView 滑动时的代理](#collectionview-滑动时的代理)
+    - [SliderMenu＋CollectionView 联动设置](#slidermenucollectionview-联动设置)
+    - [效果图](#效果图)
+    
+    
 
 #### SliderMenu 的简单使用
 
